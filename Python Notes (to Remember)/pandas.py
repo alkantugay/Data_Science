@@ -8,7 +8,7 @@ Created on Mon Mar 23 14:10:01 2020
 """
 1 - Pandas hızlı ve etkili (dataframe için)  Dataframe nedir ? örnek:
     isim  yas   medeniHal
-    Tugay 25     Bekar          Bu yapılara dataframe nedir. Datayı içinde depoladığımız excel dosyaları gibi yapılar.
+    ali 25     Bekar          Bu yapılara dataframe nedir. Datayı içinde depoladığımız excel dosyaları gibi yapılar.
     
 2- CSV ve text dosyalarını açıp inceleyip sonuçlarımızı da bu dosya tiplerine rahat bir şekilde kaydedebiliriz
 
