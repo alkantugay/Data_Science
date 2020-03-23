@@ -4,6 +4,7 @@ Created on Mon Mar 23 17:23:00 2020
 
 @author: alkan
 """
+###!!! iris.csv dosyasını indirmeyi unutma!!!
 
 # matplotlin kutuphanesi
 #Görselleştirme kütüphanesi
