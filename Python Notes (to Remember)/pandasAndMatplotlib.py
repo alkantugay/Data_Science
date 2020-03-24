@@ -5,7 +5,7 @@ Created on Mon Mar 23 17:23:00 2020
 @author: alkan
 """
 
-# matplotlin kutuphanesi
+# matplotlib kutuphanesi
 #Görselleştirme kütüphanesi
 #lineplot, scatter plot, bar plot, sub plots, hhistogram
 
